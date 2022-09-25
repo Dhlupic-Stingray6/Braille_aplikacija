@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177175417483",
+    "firebase_url": "https://braille-app-9b4fd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "braille-app-9b4fd",
+    "storage_bucket": "braille-app-9b4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177175417483:android:1aca88c6996ffd5f56ba8e",
+        "android_client_info": {
+          "package_name": "com.example.braille_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177175417483-r75uf8f8fnkjjl4iukmjpiuqgj5t5ofl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fHgTBMmz4qVt2YpaAYVBoslh4FX5sfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177175417483-r75uf8f8fnkjjl4iukmjpiuqgj5t5ofl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
